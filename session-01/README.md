@@ -5,3 +5,5 @@
 - Objetivos de aprendizaje para el Gimnasio
 - Dinámica
 - Expectativas sobre el compromiso de las estudiantes
+
+[![Hacking (live) Getting Started REACTO kickoff 20/01/2022](https://i3.ytimg.com/vi/F5jaYjyXCGQ/hqdefault.jpg)](https://youtu.be/F5jaYjyXCGQ)

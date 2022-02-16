@@ -12,3 +12,7 @@
 - [**Remove String Spaces**](./exercises/remove-string-spaces/README.md)
 - [**Same on both ends**](./exercises/same-on-both-ends/README.md)
 - [**Secret Society**](./exercises/secret-society/README.md)
+
+### Hacking en vivo
+
+[![Hacking (live) sesión 3 Same on both ends  03/02/2022](https://i3.ytimg.com/vi/i4oUXX2Nbcs/hqdefault.jpg)](https://youtu.be/i4oUXX2Nbcs)

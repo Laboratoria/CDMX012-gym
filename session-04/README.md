@@ -17,3 +17,7 @@
 
 - [**Transformation iteration**](./exercises/transformation-iteration/README.md)
 - [**Ask for missing details**](./exercises/ask-for-missing-details/README.md)
+
+### Hacking en vivo
+
+[![Hacking (Live) sesión 4 -  10/2/2022 by Isabela & Perla](https://i3.ytimg.com/vi/E64LaeRsNtY/hqdefault.jpg)](https://youtu.be/E64LaeRsNtY)
