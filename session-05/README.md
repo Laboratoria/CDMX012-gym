@@ -15,3 +15,7 @@
 
 - [**Array diff**](./exercises/array-diff/README.md)
 - [**Pangram**](./exercises/pangram/README.md)
+
+### Hacking en vivo
+
+[![Hacking (Live) sesión 5 - 17/2/2022 by Sarai Rojas](https://i3.ytimg.com/vi/ASZ5fRnYIQ4/hqdefault.jpg)](https://youtu.be/ASZ5fRnYIQ4)
