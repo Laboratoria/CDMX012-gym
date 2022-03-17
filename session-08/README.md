@@ -26,3 +26,7 @@
 #### Intermediate
 
 - [**Let's Recycle**](./exercises/lets-recycle/README.md)
+
+### Hacking en vivo
+
+[![Hacking (live) Sesión 8 - 10/03/2022 by Lore](https://i3.ytimg.com/vi/2_Wjw--TUqI/hqdefault.jpg)](https://youtu.be/2_Wjw--TUqI)

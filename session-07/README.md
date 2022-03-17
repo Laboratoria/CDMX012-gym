@@ -22,3 +22,7 @@
 #### Video intro a cssbattle (nueva plataforma)
 
 [![Video intro a cssbattle (nueva plataforma](https://i3.ytimg.com/vi/47DC5xVewnA/hqdefault.jpg)](https://youtu.be/47DC5xVewnA)
+
+### Hacking en vivo
+
+[![Hacking (live) sesión 7 - 3/03/2022 by Skarlet](https://i3.ytimg.com/vi/mH_ihhmx54I/hqdefault.jpg)](https://youtu.be/mH_ihhmx54I)
