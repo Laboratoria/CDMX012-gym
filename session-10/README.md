@@ -27,13 +27,12 @@ seguir haciendo (accionables)? sobre 2 puntos grandes:
 2. La dinámica de las sesiones: hacking en salas, hacking en vivo, kahoot,
    ejercicios, otros.
 
-
 ### [10:15 - 10:30am] Compartir reflexiones
 
 En la sala general  algunas voluntarias abren su micro para compartir las
 reflexiones mas destacadas y/o planes de acción.
 
-### [11:00 - 11:30am] Hacking en vivo
+### [10:30am - 11:00am] Hacking en vivo
 
 En esta ocasión el hacking en vivo sera el siguiente ejercicio:
 
