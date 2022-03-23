@@ -39,4 +39,4 @@ En esta ocasión el hacking en vivo estará en manos de nuestro invitado especia
 
 ## Hacking en vivo
 
-[Ejercicio - sum of numbers between](./exercise/sum-of-numbers.md)
+[Ejercicio - sum of numbers between](./exercise/README.md)
