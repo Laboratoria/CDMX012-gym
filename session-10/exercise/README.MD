@@ -1,4 +1,3 @@
-
 # Suma de todos los números entre 1 y 200
 
 ¿Cuál es la suma de todos los números comprendidos entre 1 y 200?
