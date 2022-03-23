@@ -39,4 +39,4 @@ En esta ocasión el hacking en vivo sera el siguiente ejercicio:
 
 ## Hacking en vivo
 
--[Ejercicio](./exercise/README.md)
+* [Ejercicio](./exercise/sum-of-numbers.md)
