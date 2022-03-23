@@ -35,7 +35,7 @@ reflexiones mas destacadas y/o planes de acción.
 
 ### [11:00 - 11:30am] Hacking en vivo
 
-En esta ocasión el hacking en vivo estará en manos de nuestro invitado especial Mariano.
+En esta ocasión el hacking en vivo sera el siguiente ejercicio:
 
 ## Hacking en vivo
 
