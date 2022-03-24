@@ -19,8 +19,7 @@ Tiempos : 6 min por pregunta
 
 ### [9:45am - 10:15am] Retrospectiva en Metroretro
 
-¿Qué hicimos bien? ¿Qué no hicimos bien? ¿Qué podríamos comenzar a hacer o
-seguir haciendo (accionables)? sobre 2 puntos grandes:
+¿Qué hicimos bien? ¿Qué no hicimos bien? ¿Que podemos mejorar en el GYM? ¿Qué podríamos comenzar a hacer (accionables)? sobre 2 puntos grandes:
 
 1. El compromiso sobre los objetivos, la importancia que le das, tu participación
    en las instancias, como abordas los problemas, etc
