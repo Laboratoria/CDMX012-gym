@@ -30,3 +30,7 @@
 ### Hacking en vivo
 
 [![Hacking (live) Sesión 8 - 10/03/2022 by Lore](https://i3.ytimg.com/vi/2_Wjw--TUqI/hqdefault.jpg)](https://youtu.be/2_Wjw--TUqI)
+
+## kahoot
+
+[https://create.kahoot.it/share/gym-session-08/320afa67-fdca-42d1-8eb6-46f4109094d2](https://create.kahoot.it/share/gym-session-08/320afa67-fdca-42d1-8eb6-46f4109094d2)

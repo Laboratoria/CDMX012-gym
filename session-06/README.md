@@ -19,3 +19,7 @@
 ### Hacking en vivo
 
 [![Hacking (live) sesión 6 - 24/02/2022 by Sandy](https://i3.ytimg.com/vi/KlaiEhJ-zHg/hqdefault.jpg)](https://youtu.be/KlaiEhJ-zHg)
+
+## kahoot
+
+[https://create.kahoot.it/share/gym-session-06/b3cda48c-643a-49b7-8d5d-5c70f5be6fe4](https://create.kahoot.it/share/gym-session-06/b3cda48c-643a-49b7-8d5d-5c70f5be6fe4)

@@ -26,3 +26,7 @@
 ### Hacking en vivo
 
 [![Hacking (live) sesión 7 - 3/03/2022 by Skarlet](https://i3.ytimg.com/vi/mH_ihhmx54I/hqdefault.jpg)](https://youtu.be/mH_ihhmx54I)
+
+## kahoot
+
+[https://create.kahoot.it/share/gym-session-07/132771e2-18be-4c68-8dbe-c4a3017781ae](https://create.kahoot.it/share/gym-session-07/132771e2-18be-4c68-8dbe-c4a3017781ae)
