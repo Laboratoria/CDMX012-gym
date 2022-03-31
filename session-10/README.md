@@ -38,3 +38,7 @@ En esta ocasión el hacking en vivo sera el siguiente ejercicio:
 ## Hacking en vivo
 
 * [Ejercicio](./exercise/sum-of-numbers.md)
+
+### Hacking en vivo
+
+[![Hacking (live) Sesión 10 - 24/03/2022 by Daniel Orio](https://i3.ytimg.com/vi/B9PerdFpNsw/hqdefault.jpg)](https://youtu.be/B9PerdFpNsw)

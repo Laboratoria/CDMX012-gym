@@ -29,3 +29,7 @@
 #### Intermediate
 
 - [Count strings in objects](./exercises/count-strings-in-objects/README.md)
+
+### Hacking en vivo
+
+[![Hacking (live) Sesión 9 - 17/03/2022 by Sarai G](https://i3.ytimg.com/vi/938XVkHCT0U/hqdefault.jpg)](https://youtu.be/938XVkHCT0U)
