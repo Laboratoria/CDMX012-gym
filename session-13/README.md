@@ -28,3 +28,11 @@
 #### Intermediate
 
 - [Convert Hash To An Array](./exercises/convert-hash-to-an-array/README.md)
+
+### Hacking en vivo
+
+[![Hacking (live) Sesión 13 - 28/04/2022 by [Isabela, Monzerrat, Allison]](https://i3.ytimg.com/vi/TIftIBdnMGI/hqdefault.jpg)](https://youtu.be/TIftIBdnMGI)
+
+## Kahoot
+
+[https://create.kahoot.it/share/gym-sesion-13/44fed93f-c894-4391-a8cc-da84743f47c8](https://create.kahoot.it/share/gym-sesion-13/44fed93f-c894-4391-a8cc-da84743f47c8)
