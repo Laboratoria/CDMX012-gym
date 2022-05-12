@@ -1,4 +1,4 @@
-# Tech mock mock interview - 21/04/2022
+# Tech mock mock interview one - 21/04/2022
 
 [![Mock mock interview 21/04/2022 by Margarita](https://img.youtube.com/vi/JPwObIeVSgw/0.jpg)](https://youtu.be/JPwObIeVSgw)
 

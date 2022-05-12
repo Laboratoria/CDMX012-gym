@@ -26,10 +26,10 @@
 
 - ### [Sesión 12](./session-12/README.md)
 
-- ### [Tech mock mock interview 1](./tech-mock-mock-interview-01/README.md)
+- ### [Tech mock mock interview one](./tech-mock-mock-interview-01/README.md)
 
 - ### [Sesión 13](./session-13/README.md)
 
-- ### [Tech mock mock interview 2](./tech-mock-mock-interview-02/README.md)
+- ### [Tech mock mock interview two](./tech-mock-mock-interview-02/README.md)
 
 - ### [Sesión 14](./session-14/README.md)
