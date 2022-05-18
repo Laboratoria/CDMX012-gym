@@ -31,3 +31,11 @@
 #### Advanced
 
 - [The Lift](./exercises/the-lift/README.md)
+
+### Hacking en vivo
+
+[![Hacking (live) Sesión 14 - 12/05/2022](https://i3.ytimg.com/vi/4ULh_McSPA8/hqdefault.jpg)](https://youtu.be/4ULh_McSPA8)
+
+### Kahoot
+
+[https://create.kahoot.it/share/kahoot-14-el-terror-de-javascript/f429c2f2-abab-4928-8373-f716b9350b31](https://create.kahoot.it/share/kahoot-14-el-terror-de-javascript/f429c2f2-abab-4928-8373-f716b9350b31)
