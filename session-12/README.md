@@ -1,4 +1,4 @@
-# Sesión 12
+# Sesión 12 - 07/04/2022
 
 ## Ejercicios
 
