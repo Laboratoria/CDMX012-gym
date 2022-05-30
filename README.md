@@ -37,3 +37,5 @@
 - ### [Sesión 15](./session-15/README.md)
 
 - ### [Sesión 16](./session-16/README.md)
+
+- ### [Retrospective tech mock interview](./session-17/README.md)
