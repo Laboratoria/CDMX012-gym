@@ -22,6 +22,8 @@ aprendizajes en no mas de (2 min).
 >
 > - Coaches: Mariana Z, Gene, Daniel G
 
+![Sala1](sala1.png)
+
 #### Breakout room 2
 
 > - Moderadora: Meli
@@ -32,7 +34,9 @@ aprendizajes en no mas de (2 min).
 > >
 > > - [https://docs.google.com/document/d/1Li8epLKApRxWipy5rsTfx43a3_Q-3yxFQHWwJTrcr_E/edit?usp=sharing](https://docs.google.com/document/d/1Li8epLKApRxWipy5rsTfx43a3_Q-3yxFQHWwJTrcr_E/edit?usp=sharing)
 >
-> - Coaches: Nachi, Sebas, Carlos
+> - Coaches: Nachi, Sebas, Carlos, Marcia
+
+![Sala2](sala2.png)
 
 ## 2) Compartiremos nuestra experiencia en 3 palabras [20min] breakout rooms
 
@@ -51,3 +55,5 @@ técnica.
 Algunos de los puntos sobre los que podemos reflexionar, aunque no exclusivos, son:
 planeación, estrategia, preparación, puntualidad, comunicación, análisis y
 resolución de problemas, tech skills, soft skills, gimnasio, feedback, etc.
+
+- [link de la retrospectiva](https://www.figma.com/file/pBLnOqbH1v5h6zcxiddTxY/Retrospectiva-de-entrevista-tecnica-MEX012?node-id=635%3A44)
