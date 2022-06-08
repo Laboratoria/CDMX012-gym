@@ -1,4 +1,4 @@
-# Retrospectiva cierre gym CDMX012
+# Retrospectiva cierre gym CDMX012 9/06/2022
 
 ## 1) Role playing: How might we?
 
@@ -14,6 +14,16 @@ Nuestro gimnasio parte de la idea principal de desarrollar la habilidad de `aná
 ### Consigna
 
 Proponer ideas para mejorar el gimnasio de la MEX013 💪 alrededor de 1 oportunidad de mejora identificada en el gimnasio MEX011, teniendo en cuenta la experiencia vivida y los objetivos del gimnasio.
+
+- 1️⃣ Una gran parte de estudiantes no aplica REACTO.
+- 2️⃣ No hay vinculo claro de los ejercicios del GYM con la aplicación en el proyecto.
+- 3️⃣ Dificultad para escribir y ejecutar código desde cero (sin plataformas)
+- 4️⃣ Pocos espacios de acompañamiento de las coaches dentro y fuera del gimnasio para perseguir los objetivos del gimnasio.
+- 5️⃣ Algunas estudiantes no participan activamente en la dinámica del GYM.
+- 6️⃣ En algunas ocasiones no se ha identificado la lógica para resolver un reto técnico.
+- 7️⃣ El lenguaje técnico no ha sido una prioridad al momento de comunicar.
+- 8️⃣ Al momento de leer la descripción del ejercicio/reto técnico no se alcanza a comprender el objetivo/problema.
+- 9️⃣ No se ha tomado en cuenta el GYM fuera del Jueves.
 
 ### Dinámica [~60 min]
 
