@@ -39,3 +39,5 @@
 - ### [Sesión 16](./session-16/README.md)
 
 - ### [Retrospective tech mock interview](./session-17/README.md)
+
+- ### [Retrospectiva cierre gym CDMX012](./session-18/README.md)
