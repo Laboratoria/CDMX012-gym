@@ -18,11 +18,11 @@ Proponer ideas para mejorar el gimnasio de la MEX013 💪 alrededor de 1 oportun
 - 1️⃣ Una gran parte de estudiantes no aplica REACTO.
 - 2️⃣ No hay vinculo claro de los ejercicios del GYM con la aplicación en el proyecto.
 - 3️⃣ Dificultad para escribir y ejecutar código desde cero (sin plataformas)
-- 4️⃣ Pocos espacios de acompañamiento de las coaches dentro y fuera del gimnasio para perseguir los objetivos del gimnasio.
+
 - 5️⃣ Algunas estudiantes no participan activamente en la dinámica del GYM.
 - 6️⃣ En algunas ocasiones no se ha identificado la lógica para resolver un reto técnico.
 - 7️⃣ El lenguaje técnico no ha sido una prioridad al momento de comunicar.
-- 8️⃣ Al momento de leer la descripción del ejercicio/reto técnico no se alcanza a comprender el objetivo/problema.
+
 - 9️⃣ No se ha tomado en cuenta el GYM fuera del Jueves.
 
 ### Dinámica [~60 min]
@@ -36,6 +36,63 @@ Nos separaremos en 9 squads en salitas de Zoom.
 - 30 min para elaborar y proponer sus ideas.
 
 - 15 min para poder cerrar y subir sus ideas. Cada Squad deberá colocar sus ideas en su respectiva Slide, de ser necesario, pueden agregar otra slide.
+
+#### Link de acceso a las slides
+
+[https://docs.google.com/presentation/d/1XDFuXxSA70i6P_pCXxUmpEf0gbmcrKzJeTNb_l2-KNc/edit?usp=sharing](https://docs.google.com/presentation/d/1XDFuXxSA70i6P_pCXxUmpEf0gbmcrKzJeTNb_l2-KNc/edit?usp=sharing)
+
+#### La distribución de salas
+
+|Nombre     |Sala      | Issue |
+| :---      | :----:    |  ---: |
+|Abril Pamela Quintero García| 1| 1|
+|Denisse Alejandra Molina Ruelas| 1| 1|
+|Nanci Mondragón Cruz| 1| 1|
+|Natalia  Reyes Altamirano| 1| 1|
+|Veronica Guzman| 1| 1|
+|Ziomara Sinahí Ramos Jiménez| 1| 1|
+|Alemar Arizti| 2| 3|
+|Elizabeth Tejeda Gonzalez| 2| 3|
+|Enya Daniela González Rubio| 2| 3|
+|Nathalie Serratos Sainz| 2| 3|
+|Paulette Melissa Villegas Reyes| 2| 3|
+|Amaya De Esesarte| 3| 2|
+|Irma Itzel Avalos| 3| 2|
+|Julia Abigail Peña López| 3| 2|
+|NIZALLI RAMIREZ APARICIO| 3| 2|
+|Rebeca Alejandra Sánchez Vargas| 3| 2|
+|Ana Guadalupe Cifuentes Sánchez| 4| 7|
+|Itzel Rovira Álvarez| 4| 7|
+|Margarita Del Rosario García Sarmiento| 4| 7|
+|Perla Edith García Del Ángel| 4| 7|
+|Roxana Guadalupe Hernández Poceros| 4| 7|
+|Andrea Sánchez Velázquez| 5| 5|
+|Atenas Berenice Villalba| 5| 5|
+|María Isabela Huitrón Ramos| 5| 5|
+|Riley Sui Valdes Flores| 5| 5|
+|Sandra Herrera Mercado| 5| 5|
+|Xosé De Lara| 5| 5|
+|Betsy Ramos| 6| 6|
+|Liliana Hernández| 6| 6|
+|Mariana Hernández Barreto| 6| 6|
+|Melissa Andrea Bracamonte Jaraba| 6| 6|
+|Sonia Felizardo Gómez| 6| 6|
+|Yazmin Trujillo| 6| 6|
+|Allison Tovar Hernández| 7| 9|
+|Candy López| 7| 9|
+|Lorena Elizabeth Rojas Espinoza| 7| 9|
+|Marilyn Citlali Ramirez Ortiz| 7| 9|
+|Saraí González Y González| 7| 9|
+|Ana Kristyna Lizárraga Ramirez| 8| 3|
+|Daniela Carbajal| 8| 3|
+|Dariana  Quintero| 8| 3|
+|María De Lourdes Santiago Palacios| 8| 3|
+|Skarlet Maribel Araque Martinez| 8| 3|
+|Daniela Miñón| 9| 7|
+|Ivonne Cristina Brito Reyes| 9| 7|
+|Monzerrat Bañuelos| 9| 7|
+|NAIRIBYS ROCIO LEON| 9| 7|
+|Roxana Gonzalez| 9| 7|
 
 ### Presentación & Votación (Salita general) [~45 min]
 
